@@ -5,10 +5,9 @@ I'm a beginner programmer
 -------------------------
 
 * 🌍  I'm based in Texas.
-* 🖥️  Portfolio coming soon 👀
 * ✉️  You can contact me at [seldomgreen@seldomgreen.me](mailto:seldomgreen@seldomgreen.me)
 * 🚀  I'm currently working on programming an [autonomous robot](https://github.com/Laneco-Ltd/Maze-Solving-Robot) to solve a maze in python.
-* 🤝  I'm open to collaborating on basic python projects.
+* 🤝  I'm open to collaborating on robotics projects and outer space research.
 
 ### Followers
 <a href="https://www.github.com/seldomgreeen" target="_blank" rel="noreferrer"><img
